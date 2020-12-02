@@ -60,5 +60,3 @@ echo ($conta->obterSaldo());
 echo "\n";
 echo $conta->sacar(50);
 echo ($conta->obterSaldo());
-
-
